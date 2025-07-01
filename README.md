@@ -73,13 +73,12 @@ Fully mobile and tablet friendly – built with accessibility and user experienc
 
 For feedback or collaboration:  
 📧 **https://healthifyu.netlify.app/**  
-📞 **+91-9734545882**
+📞 **+91-9907966371**
 
 ---
 
 ## 🙌 Made By
 
-🎥 YouTube: [Pradip Maity](https://youtube.com/@gudduda)  
 💻 Project by: [HealtifyU](https://github.com/codeboy-pro)
 
 ---
