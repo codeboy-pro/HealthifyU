@@ -2,7 +2,7 @@
 HealthifyU
 🩺 Welcome to HealthifyU – Your Personal Health Companion!
 🎥 Presented by Guddu Da
-
+Live Demo:-   https://healthifyu.netlify.app/
 🚀 In this video, I showcase my first health-focused web project: HealthifyU, a modern wellness platform designed to help you take control of your health journey!
 
 👉 What HealthifyU Offers:
