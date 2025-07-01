@@ -1,22 +1,91 @@
-# HealthifyU
-HealthifyU
-🩺 Welcome to HealthifyU – Your Personal Health Companion!
-🎥 Presented by Guddu Da
-Live Demo:-   https://healthifyu.netlify.app/
-🚀 In this video, I showcase my first health-focused web project: HealthifyU, a modern wellness platform designed to help you take control of your health journey!
+# 💚 HealthifyU – Your Personal Health Companion
 
-👉 What HealthifyU Offers:
-✅ BMI Calculator – Instantly check your fitness score
-✅ AI Health Assistant – Ask about symptoms, nutrition, fitness, or mental health
-✅ Mental Health Support – Breathe, relax, and stay motivated
-✅ Meal Planner – Get personalized healthy food suggestions
-✅ Emergency Page – Be ready with instant help access
+Welcome to **HealthifyU**, a smart, responsive, and user-friendly health-focused website that offers tools and resources to help you stay fit, healthy, and informed. Whether you're tracking your BMI, planning your meals, monitoring your mental health, or asking questions to an AI health assistant – HealthifyU is here for you!
 
-🌐 Visit the website: [Add your site link here]
-👨‍💻 Built with HTML, CSS, JavaScript, and a touch of AI
+---
 
-📌 Don’t forget to LIKE, SHARE & SUBSCRIBE if you enjoy smart health tech and want to support my projects!
-📣 Comment below what feature you liked the most or what I should add next!
+## 🔗 Live Demo
 
-🔔 Subscribe for more tech projects and web development content.
-🧠 Stay smart. Stay healthy. Stay connected with Guddu Da 💚
+👉 [Visit HealthifyU Website](https://healthifyu.netlify.app/)  
+
+
+---
+
+## 🚀 Features
+
+- 🧮 **BMI Calculator** – Know your Body Mass Index and understand your health category.
+- 🧠 **Mental Health Hub** – Tips and resources to take care of your mental wellness.
+- 🥗 **Healthy Meal Planner** – Smart suggestions for balanced and nutritious meals.
+- 🤖 **AI Health Assistant** – Ask health-related questions and get real-time advice (not a substitute for a doctor!).
+- 🚨 **Emergency Guide** – Quick access to emergency contacts and health protocols.
+
+---
+
+## 📸 Preview
+
+![HealthifyU Screenshot](![image](https://github.com/user-attachments/assets/7f2e70ce-0828-4765-8bdf-b890fddaa360)
+)  
+*(Include a screenshot of your site)*
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 / Tailwind CSS
+- JavaScript (Vanilla JS)
+- Google Gemini AI API (for the AI Assistant)
+
+---
+
+## 📁 Folder Structure
+HealthifyU/
+│
+├── index.html
+├── /BMI CALCULATOR
+│ └── bmi1.html, bmi1.css, bmi1.js
+├── meal-planner.html
+├── mental-health.html
+├── ai-assistant.html
+├── emergency.html
+├── /assets
+│ └── images, icons, etc.
+└── README.md
+
+
+---
+
+## 🤖 AI Assistant Instructions
+
+- Only responds to **health-related** queries.
+- Uses Gemini API for smart and controlled responses.
+- Rejects off-topic questions rudely for fun!
+
+---
+
+## 📱 Responsive Design
+
+Fully mobile and tablet friendly – built with accessibility and user experience in mind.
+
+---
+
+## 📬 Contact
+
+For feedback or collaboration:  
+📧 **https://healthifyu.netlify.app/**  
+📞 **+91-9734545882**
+
+---
+
+## 🙌 Made By
+
+🎥 YouTube: [Pradip Maity](https://youtube.com/@gudduda)  
+💻 Project by: [HealtifyU](https://github.com/codeboy-pro)
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+
