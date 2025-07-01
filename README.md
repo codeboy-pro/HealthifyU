@@ -23,7 +23,7 @@ Welcome to **HealthifyU**, a smart, responsive, and user-friendly health-focused
 
 ## 📸 Preview
 
-![HealthifyU Screenshot](![image](https://github.com/user-attachments/assets/7f2e70ce-0828-4765-8bdf-b890fddaa360)
+![HealthifyU Screenshot](https://github.com/codeboy-pro/HealthifyU/blob/main/HealthifyU%20Pic.png)
 )  
 *(Include a screenshot of your site)*
 
@@ -79,7 +79,7 @@ For feedback or collaboration:
 
 ## 🙌 Made By
 
-💻 Project by: [HealtifyU](https://github.com/codeboy-pro)
+💻 Project by: [Pradip Maity](https://github.com/codeboy-pro)
 
 ---
 
